@@ -10,7 +10,7 @@ Note: this code does not include anything to work in the PROGMEM area of 8 bit A
 
 The example has been changed to show how this can be used to see how variables are stored in memory but the library is unchanged.
 
-##
+## Path of Repository
 
 The library should be cloned into
 
@@ -43,3 +43,7 @@ try to not show duplicate lines.
 The example has been changed to show how this can be used to see how variables are stored in memory.
 
 ![](example_output.png)
+
+## CoolTerm Settings
+
+I found it expedient to use CoolTerm rather than the Arduino serial monitor. For this example I cheanged the default screen buffer in Coolterm to 20000 from the default 10000. 
