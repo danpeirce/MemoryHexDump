@@ -47,3 +47,9 @@ The example has been changed to show how this can be used to see how variables a
 ## CoolTerm Settings
 
 I found it expedient to use CoolTerm rather than the Arduino serial monitor. For this example I cheanged the default screen buffer in Coolterm to 20000 from the default 10000. 
+
+## Memory Optimization
+
+The following link points to material that will help understand how memory is used.
+
+[http://jheyman.github.io/blog/pages/ArduinoTipsAndTricks/#memory-optimisation](http://jheyman.github.io/blog/pages/ArduinoTipsAndTricks/#memory-optimisation)
